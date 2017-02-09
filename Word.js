@@ -1,0 +1,1 @@
+var words = ['Nuclear', 'Mutant', 'Ghoul', 'Vault', 'Wasteland', 'Enclave', 'Deathclaw', 'Brotherhood']
