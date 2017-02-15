@@ -30,7 +30,7 @@
 var inquirer = require('inquirer')
 var Word = require('./Word.js');
 
-var words = ['jeff', 'john', 'rhyna'];
+var words = ['nuclear', 'mutant', 'ghoul', 'vault', 'wasteland', 'enclave', 'deathclaw', 'brotherhood'];
 
 var wordToPlay = words[Math.floor(Math.random()*words.length)];
 
